@@ -1,0 +1,91 @@
+{
+  "extensionName": {
+    "message": "Correct identity"
+  },
+  "extensionDescription": {
+    "message": "能让你在在编写邮件时自动选择正确的发件身份。"
+  },
+  "CorrectIdentity.extensionWarning": {
+    "message": "警告"
+  },
+  "CorrectIdentity.extensionCancel": {
+    "message": "取消"
+  },
+  "CorrectIdentity.accountSelector": {
+    "message": "帐号"
+  },
+  "CorrectIdentity.accountsCaption": {
+    "message": "选择"
+  },
+  "CorrectIdentity.accountsDescription": {
+    "message": "每个帐号都可以指定一个身份用以编写邮件。"
+  },
+  "CorrectIdentity.aliasesDescription": {
+    "message": "指定查询条件或域名，当匹配收件人列表时，将自动切换身份。查询条件只会在上方“选择”功能的结果为空时生效。"
+  },
+  "CorrectIdentity.aliasesTooltip": {
+    "message": "查询条件对大小写不敏感，且必须按行分隔。你可以用反斜杠(/.../)来进行正则表达式匹配。"
+  },
+  "CorrectIdentity.detectionCaption": {
+    "message": "检测"
+  },
+  "CorrectIdentity.detectionDescription": {
+    "message": "你可以对任何身份指定如何检测收件人列表。"
+  },
+  "CorrectIdentity.height": {
+    "message": "442"
+  },
+  "CorrectIdentity.identityDetectable": {
+    "message": "允许此身份被程序检测到。"
+  },
+  "CorrectIdentity.identitySelector": {
+    "message": "身份"
+  },
+  "CorrectIdentity.identitySelectorWidth": {
+    "message": "356"
+  },
+  "CorrectIdentity.mechanismDefault": {
+    "message": "使用账户的默认身份"
+  },
+  "CorrectIdentity.mechanismDescription": {
+    "message": "当写新邮件时"
+  },
+  "CorrectIdentity.mechanismExplicit": {
+    "message": "使用"
+  },
+  "CorrectIdentity.replyDescription": {
+    "message": "当回复邮件时"
+  },
+  "CorrectIdentity.replyFromRecipient": {
+    "message": "尝试查找并使用出现在其收件人列表中的身份。"
+  },
+  "CorrectIdentity.safetyCaption": {
+    "message": "安全"
+  },
+  "CorrectIdentity.safetyDescription": {
+    "message": "您可以保护每个身份不发送给某些收件人。"
+  },
+  "CorrectIdentity.title": {
+    "message": "Correct Identity 选项"
+  },
+  "CorrectIdentity.warningAliasesDescription": {
+    "message": "在发送给姓名 and/or 地址与以下搜索词之一匹配的收件人之前，您将收到警告。"
+  },
+  "CorrectIdentity.warningAliasesTooltip": {
+    "message": "查询条件对大小写不敏感，且必须按行分隔。你可以用反斜杠(/.../)来进行正则表达式匹配。"
+  },
+  "CorrectIdentity.width": {
+    "message": "554"
+  },
+  "warning": {
+    "message": "警告: 你正使用身份 $P1$ 发邮件给:\n$P2$\n\n继续吗？",
+    "placeholders": {
+      "P1": {
+        "content": "$1"
+      },
+      "P2": {
+        "content": "$2"
+      }
+    }
+  }
+}
